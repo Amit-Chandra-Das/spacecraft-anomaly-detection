@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Large/raw datasets
+data/raw/
+
+# Model files
+models/
+
+# Temporary files
+*.tmp
+*.log
