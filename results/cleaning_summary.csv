@@ -1,0 +1,2 @@
+Total Channels,Channels with Missing Values,Total Missing Values,Channels with Infinite Values,Total Infinite Values,Non-Numeric Channels,"Train Values Outside [-1,1]","Test Values Outside [-1,1]",Constant Telemetry Channels,Consecutive Duplicate Pairs
+82,0,0,0,0,0,5113,5557,14,114268
