@@ -1,0 +1,2 @@
+channel,method,threshold,precision,recall,f1_score,false_positive_rate,false_negative_rate,true_negatives,false_positives,false_negatives,true_positives
+A-8,Global Z-score,±3,0.0,0.0,0.0,0.0,1.0,4569,0,3806,0
