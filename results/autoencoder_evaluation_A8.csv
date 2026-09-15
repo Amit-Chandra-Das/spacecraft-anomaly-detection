@@ -1,0 +1,2 @@
+channel,method,threshold_method,threshold,precision,recall,f1_score,false_positive_rate,false_negative_rate,true_negatives,false_positives,false_negatives,true_positives
+A-8,Autoencoder,99th percentile of training reconstruction error,0.00042179364,0.3209454437342054,0.5672622175512348,0.4099496819519605,0.9997811337272926,0.4327377824487651,1,4568,1647,2159
