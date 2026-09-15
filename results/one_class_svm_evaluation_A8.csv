@@ -1,0 +1,2 @@
+channel,method,kernel,gamma,nu,precision,recall,f1_score,false_positive_rate,false_negative_rate,true_negatives,false_positives,false_negatives,true_positives
+A-8,One-Class SVM,rbf,scale,0.05,0.3551095929405067,0.6555438780872307,0.46067208271787297,0.9916830816371197,0.3444561219127693,38,4531,1311,2495
