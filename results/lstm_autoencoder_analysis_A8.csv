@@ -1,0 +1,2 @@
+channel,normal_mean_error,anomaly_mean_error,normal_median_error,anomaly_median_error,normal_to_anomaly_error_ratio,lstm_precision,lstm_recall,lstm_f1_score,lstm_false_positive_rate,lstm_false_negative_rate
+A-8,1.6910884,0.5969814,1.943351,0.07819012,2.8327322,0.2775065104166667,0.4479768786127168,0.342713567839196,0.9820796460176991,0.5520231213872833
