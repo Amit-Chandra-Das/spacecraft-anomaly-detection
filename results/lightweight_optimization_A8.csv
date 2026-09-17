@@ -1,0 +1,3 @@
+model,hidden_size,parameters,training_time_seconds,inference_time_seconds,precision,recall,f1_score,false_positive_rate,false_negative_rate
+Original LSTM Autoencoder,32,14033,13.160519,2.609967,0.2775065,0.4479769,0.3427136,0.9820796,0.5520231
+Lightweight LSTM Autoencoder,16,3953,8.069644592000031,0.8486043330001394,0.0,0.0,0.0,0.0,1.0
