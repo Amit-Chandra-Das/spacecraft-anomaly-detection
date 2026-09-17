@@ -1,0 +1,7 @@
+method,parameters,training_or_processing_time_seconds,inference_time_seconds,input_type,notes
+Global Z-score,,0.01607756999965204,,single telemetry point,Processing time; no model training
+Rolling Z-score,,0.017417657999885705,,single telemetry point with rolling window,Processing time; window size 50; past-only
+Isolation Forest,,1.289719788999946,0.04793296499997268,single telemetry point,100 trees; contamination='auto'
+One-Class SVM,,0.011314459999994142,0.038822555000024295,single telemetry point,RBF kernel; nu=0.05
+Autoencoder,35.0,0.2885936870000023,0.0013099489999603975,single telemetry point,35 trainable parameters
+LSTM Autoencoder,14033.0,13.160518509999974,2.609966934000113,50-timestep sequence,"14,033 trainable parameters"
