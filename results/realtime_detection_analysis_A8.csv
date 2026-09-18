@@ -1,0 +1,2 @@
+channel,window_size,threshold,ground_truth_start,first_detection_index,detection_delay,precision,recall,f1_score,false_positive_rate,false_negative_rate
+A-8,50,0.11613636,4569,4569,0,0.2775065104166667,0.4479768786127168,0.342713567839196,0.9820796460176991,0.5520231213872833

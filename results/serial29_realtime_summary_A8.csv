@@ -1,0 +1,2 @@
+channel,model,window_size,threshold,total_telemetry_points,windows_evaluated,precision,recall,f1_score,false_positive_rate,false_negative_rate,true_positives,false_positives,true_negatives,false_negatives,first_alert_index,detection_delay,alert_rate_percent,longest_alert_streak
+A-8,LSTM Autoencoder,50,0.11613636,8375,8326,0.2775065104166667,0.4479768786127168,0.342713567839196,0.9820796460176991,0.5520231213872833,1705,4439,81,2101,130,0,73.79293778525103,5170
